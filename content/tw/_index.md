@@ -20,16 +20,14 @@ header:
     fontColor: yellow
     
   - type: text
-    height: 200
+    height: 0
     paddingX: 50
     paddingY: 0
     align: center
     title:
-      - HUGO
     subtitle:
-      - The world’s fastest framework for building websites
     titleColor: 
-    titleShadow: true
+    titleShadow: false
     titleFontSize: 44
     subtitleColor: 
     subtitleCursive: true
